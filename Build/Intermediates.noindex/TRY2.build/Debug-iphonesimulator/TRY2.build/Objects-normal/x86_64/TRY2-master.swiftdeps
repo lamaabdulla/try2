@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "9a30f20a29b56d6292d166f495f83bc8"
+build_time: [1540497487, 873487000]
+inputs:
+  "/Users/lama/Desktop/TRY2/TRY2/ViewController.swift": [1540497484, 0]
+  "/Users/lama/Desktop/TRY2/TRY2/AppDelegate.swift": [1540497484, 0]
